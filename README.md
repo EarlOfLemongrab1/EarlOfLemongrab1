@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Eliott, I'm 21, currently in my postgraduate education's third year, i'm a junior developer who is really interested in crypto-currency and block-chain.
-I'm also fascinated by VR since i was a boy
+I'm also fascinated by VR since life day 1
 
 
 ```bash
