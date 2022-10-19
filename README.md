@@ -24,15 +24,21 @@ Softwares : Pack Office, GIT, MySql, Figma, Bubble.
 ### Spoken languages :
 
 ```bash
+
 - French : fluent
+
 - English : Decent
 ```
 ### The reasons I wake up every day :
 
 ```bash
+
 - Cinema (especially cartoons)
+
 - Lofi music
+
 - Video games
+
 - Cooking (probably better than Gordon Ramsey)
 ```
 
