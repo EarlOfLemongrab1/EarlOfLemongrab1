@@ -6,8 +6,8 @@ I'm also fascinated by VR since life day 1
 
 ```bash
 - 🔭 I’m currently working on Next.js and react.js
-- 🌱 I’m currently learning Solidity through Javascript and Python
-- 🔎 I’m currently looking for a blockchain training
+- 🌱 Learning Solidity through Javascript and Python
+- 🔎 Currently looking for a blockchain training
 - 📍 located in Paris, France
 ```
 
